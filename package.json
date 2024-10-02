@@ -1,5 +1,5 @@
 {
-  "name": "pocketaces",
+  "name": "PocketAces",
   "version": "1.0.0",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   "engines": {
     "node": "10.15.3"
   },
-  "description": "Server for Texas Holdem - Pocket Aces Edition",
+  "description": "Server for Texas Holdem - Pocket Aces Edition 2.0",
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js",
